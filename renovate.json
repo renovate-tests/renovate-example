@@ -1,6 +1,4 @@
 {
-  "assignees": ["BigMichi1"],
-  "baseBranches": ["master"],
   "extends": ["config:base"],
   "prHourlyLimit": 50
 }
